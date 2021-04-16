@@ -23,6 +23,7 @@ article{
     background-image: url(kepek/csonak.png);
     background-repeat: no-repeat;
     background-color: lightskyblue;
+    background-position: center;
     min-height: 400px;
  }
 
