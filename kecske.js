@@ -34,9 +34,9 @@ function csonakbaHelyez(image) {
     ID("csonak").innerHTML += "<img src='" + position[0] + "' alt='" + position[1]+ "'>";
     position.shift();
     csonak.push(position[0]);
-    console.log(csonak);
+    //console.log(csonak);
     position.shift();
-    console.log(position);
+    //console.log(position);
 }
 
 function ezVeszelyes() {
